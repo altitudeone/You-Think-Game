@@ -62,3 +62,7 @@ A lightweight, interactive Web Application designed to test personal reasoning, 
 ## 🏷️ Credit & Branding
 
 Crafted with passion by **WaktuLuangProject**.
+
+<img src="https://github.com/user-attachments/assets/864d82d6-c29b-40a2-a9ce-df6ffcd12682" alt="Logic Mirror Game Preview" width="100%">
+
+
